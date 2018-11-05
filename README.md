@@ -2,9 +2,9 @@ Name : Kim - minsu
 
 Email : kok2209@gmail.com, kok2230@naver.com
 
-OS : Linux / Window
+OS : Linux / Window / Mac
 
-Develop : Python2.7 , Pyqt , Pyside
+Develop : Python2.7, c++  , Pyqt , Pyside
 
 Datebase : Mysql-mariaDB5.5 / MongoDB-2.6
 
